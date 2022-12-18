@@ -3,11 +3,8 @@
 - ![image](https://user-images.githubusercontent.com/74208991/208288750-eaffb844-a34b-4c23-9b61-3cd9f8009753.png)
 - ![image](https://user-images.githubusercontent.com/74208991/208288787-54f0247c-532c-4dc7-a375-2da6ae950adb.png) 
 - ![image](https://user-images.githubusercontent.com/74208991/208288825-cebcd28c-152f-4e48-a338-cba05ad9173e.png)
-
 - ![image](https://user-images.githubusercontent.com/74208991/208288903-ea4a17d7-9ce3-4957-a140-bf0648552e84.png)
-
 - ![image](https://user-images.githubusercontent.com/74208991/208288935-cf21823c-3b80-4055-b9c5-a6f5f2774042.png)
-
 - ![image](https://user-images.githubusercontent.com/74208991/208289008-a68a8075-81bc-4b1e-8038-3d46add5c3be.png)
 - ![image](https://user-images.githubusercontent.com/74208991/208289063-9f76df94-bb67-40db-a13a-a1f6c3bd404a.png)
 - ![image](https://user-images.githubusercontent.com/74208991/208289202-a4b49886-0432-4d99-8428-8459b53c97da.png)
@@ -19,9 +16,7 @@
 - ![image](https://user-images.githubusercontent.com/74208991/208291490-f5cf380c-d1dc-4cfd-a0bc-06774a95c884.png)
 - ![image](https://user-images.githubusercontent.com/74208991/208291574-0e38437a-10ae-4fcf-89ef-ca89ac986584.png)
 - ![image](https://user-images.githubusercontent.com/74208991/208291624-7e3112b7-eda2-49dc-8a50-b55a0f0dda27.png)
-
 - ![image](https://user-images.githubusercontent.com/74208991/208291654-3274f5c3-f224-41e2-890a-304818da68ff.png)
-
 - ![image](https://user-images.githubusercontent.com/74208991/208291668-718b0939-e26d-4c2c-a13d-b185a9d19dc2.png)
 - ![image](https://user-images.githubusercontent.com/74208991/208291699-2596e2bd-4f20-4a98-9068-1bfd1799c119.png)
 - ![image](https://user-images.githubusercontent.com/74208991/208291775-9b11b280-6adb-43b0-8ba7-1b9216a2c9c2.png)
@@ -54,8 +49,33 @@
 - ![image](https://user-images.githubusercontent.com/74208991/208294023-2ca91888-ec58-4c56-ba6b-6145f0447f16.png)
 - ![image](https://user-images.githubusercontent.com/74208991/208294258-7fa57df8-2c21-47c8-b923-76b5fa74ad0e.png)
 - buna bak bır daha
+- ![image](https://user-images.githubusercontent.com/74208991/208294502-5ef50cbd-8f1d-4389-a170-50c190ef9d41.png)
+- ![image](https://user-images.githubusercontent.com/74208991/208294544-f528112f-898f-46b4-8ef5-ae25aec119d1.png)
+### 4.3 The Internet Protocol, part 1
+- internets network layer deiğine ?
+- ip protocol is not about routing algorithms - those are control plane functions!!!
+- ıcmp protocol part of the network layer control plane
+- ![image](https://user-images.githubusercontent.com/74208991/208295251-c24755dd-2853-4ceb-a9eb-481c17ec3215.png)
+- ethernet linl layer frame e sıgsın dıye ığ atagram usually 1500 civarı byte olur
+- header checksum since ttl is updated checksum should be recomputed!
+- ![image](https://user-images.githubusercontent.com/74208991/208295519-8909d7d0-9ae4-44d0-a29e-bc23e4057bfc.png)
+ - ip address link layer interface i identify eder!
+ - ![image](https://user-images.githubusercontent.com/74208991/208295678-426e8561-f135-4085-a041-0d591d3a8297.png)
+- su dotted notaion olayına bak!!
+- ![image](https://user-images.githubusercontent.com/74208991/208295754-9302c319-a7f2-42d7-a823-a678994d420b.png)
+- ![image](https://user-images.githubusercontent.com/74208991/208295811-60c7b1de-42aa-4d84-b3c7-96f606f8e45b.png)
+- ![image](https://user-images.githubusercontent.com/74208991/208295874-0bd4637d-102d-4596-853e-72f3917f1218.png)
+- ![image](https://user-images.githubusercontent.com/74208991/208295911-0f876c20-a7bf-4499-a465-0cca061bb3e3.png)
+- ![image](https://user-images.githubusercontent.com/74208991/208295941-5e16e3bb-01a2-4b38-b68b-7d9f2f59a030.png)
+- bu cıdr olayına bak
+- ![image](https://user-images.githubusercontent.com/74208991/208295993-c0c8ae6c-58a1-4fd5-9f8f-2c2ece669aab.png)
+- ![image](https://user-images.githubusercontent.com/74208991/208296025-a60de799-5251-4d24-a1ae-641861430821.png)
+- ![image](https://user-images.githubusercontent.com/74208991/208296101-1d26fe85-320e-40e5-9dff-fa46b50b3f1e.png)
+- dhcp runs over udp
+- ![image](https://user-images.githubusercontent.com/74208991/208296370-7866f91e-00f4-4757-ac1e-91949ff9b0db.png)
+- ![image](https://user-images.githubusercontent.com/74208991/208296437-b4b03edc-7498-4c89-ac1a-ec19494f0a73.png)
+- ![image](https://user-images.githubusercontent.com/74208991/208296482-178637c2-7767-40a8-8d04-a2b0043c1f60.png)
 
--
 
 
 
